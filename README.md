@@ -1,5 +1,3 @@
-<a href="https://tagion.org"><img alt="tagion logo" src="./docs/.vuepress/public/wordmark-dark.svg" alt="tagion.org" height="60"></a>
-
 # Welcome to Tagion Homepage project!
 
 Tagion homepage is open-source community-centric website. You are welcome to contribute to it.
